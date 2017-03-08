@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.gallery3d.rgk.airview.layout.PopupLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true" >
+    <com.mediatek.gallery3d.video.RGKMovieView 
+        android:id="@+id/video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"/>
+    
+    <ImageView 
+        android:id="@+id/popup_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_close_w"
+        android:visibility="gone"/>
+    
+    <ImageView
+        android:id="@+id/popup_expand"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/ic_popup_expand_normal_w"
+        android:visibility="gone"/>
+    
+    <ImageView
+        android:id="@+id/video_play_pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:scaleType="center"
+        android:src="@drawable/ic_popup_pause"
+        android:visibility="gone"/>
+
+    <SeekBar
+        android:id="@+id/seek"
+        android:layout_width="match_parent"
+        android:layout_height="25sp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="10sp"
+        android:visibility="gone" />
+
+</com.android.gallery3d.rgk.airview.layout.PopupLayout>

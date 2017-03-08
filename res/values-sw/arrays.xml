@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="text_font">
+<item>Chaguo-msingi</item>
+<item>Moja</item>
+<item>Sans Serif</item>
+<item>Serif</item>
+</string-array>
+<string-array name="proxy_error">
+<item>Uga mwenyeji haiwezi kuwa tupu</item>
+<item>Kituo tarishi cha uga hakiwezi kuwa tupu</item>
+<item>Uga batili</item>
+<item>Kituo tarishi ni batili</item>
+</string-array>
+</resources>

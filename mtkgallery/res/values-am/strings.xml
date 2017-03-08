@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="m_share_format_choose_title">"ቅርጸት ይምረጡ"</string>
+<string name="m_share_format_image">ምስል</string>
+<string name="m_share_format_video">ቪዲዮ</string>
+<string name="m_generating_tip">"ቪዲዮ በማመንጨት ላይ…"</string>
+<string name="m_generate_video_fail">"ቪዲዮ ማመንጨት አልተቻለም"</string>
+<string name="m_generating_gif_tip">"Gif በማመንጨት ላይ..."</string>
+<string name="m_generate_gif_fail">"Gif ማመንጨት አልተሳካም"</string>
+<string name="m_share_limit">ከ300 በላይ ሰነዶችን ማካፈል አይችልም</string>
+<string name="m_demo_off">ቅንጭብ ማሳያ ጠፍቷል</string>
+<string name="m_vertical_demo">በቁመት ቅንጭብ ማሳያ</string>
+<string name="m_horizontal_demo">አግድም ቅንጭብ ማሳያ</string>
+<string name="m_storage_not_enough">"ማከማቻው በቂ ቦታ የለውም"</string>
+<string name="m_saving_image">በ  <xliff:g id="album_name">%1$s</xliff:g> ምስል በማስቀመጥ ላይ\u2026</string>
+<string name="m_drm_protected_warning1">"ይዘቱ በቅጂ-የተጠበቀ ነው፣"</string>
+<string name="m_drm_protected_warning2">"በስልክ ላይ ለማየት"</string>
+<string name="m_wfd_protected_warning">"እባክዎ ሽቦ አልባ ማሳያውን ያቋርጡ"</string>
+<string name="m_hdmi_protected_warning">"እባክዎ ከኤችዲኤምአይ ጋር ያቋርጡ"</string>
+<string name="m_dc_open">ማወዳጀት በርቷል</string>
+<string name="m_dc_close">ማወዳጀት ጠፍቷል</string>
+<string name="m_please_wait">እባክዎ ይጠብቁ</string>
+<string name="m_insufficient_space_one">ማካፈል አልተሳካም፣ በቂ ያልሆነ ቦታ</string>
+<string name="m_insufficient_space_some">የተወሰኑ ዝግተኛ እንቅስቃሴ ቪዲዮዎችን ማካፈል አልተሳካም በቂ ያልሆነ ቦታ</string>
+<string name="m_insufficient_space_all">ሁሉንም ዝግተኛ እንቅስቃሴ ቪዲዮዎች ማካፈል አልተሳካም በቂ ያልሆነ ቦታ</string>
+<string name="not_avaliable_high_speed_multi_share">ለአሁኑ ፍጥነት በዝግተኛ እንቅስቃሴ ቪዲዮ ማካፈል ማግኘት አይቻልም  ቪዲዮ እንደ 1/4x ይካፈላል</string>
+<string name="not_avaliable_high_speed_single_share">ለአሁኑ ፍጥነት በዝግተኛ እንቅስቃሴ ቪዲዮ ማካፈል ማግኘት አይቻልም እባክዎ እንደ ሌላ ፍጥነቶች ቪዲዮ ያካፍሉ</string>
+</resources>

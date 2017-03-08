@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:rgk="http://schemas.android.com/apk/res/com.android.gallery3d"
+    android:id="@+id/voice_player_view_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.android.gallery3d.voice.CircleProgressBar
+        android:id="@+id/player_progress_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="20dp"
+        rgk:highlight_progress_color="#1FADFF"
+        rgk:middle_icon="@drawable/ic_voice"
+        rgk:normal_progress_color="#FFFFFF"
+        rgk:progress_width="1dp" />
+
+</FrameLayout>

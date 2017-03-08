@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="m_share_limit">Faayiloota 300 caalaa hiru hin dandenye.</string>
+<string name="m_demo_off">Daadessa cufaa</string>
+<string name="m_vertical_demo">Daadessa irraangadee</string>
+<string name="m_horizontal_demo">Daadessa dagalee</string>
+<string name="m_insufficient_space_one">Imeshindwa kugawiza,nafasi haitoshi.</string>
+<string name="m_insufficient_space_some">Imeshindwa kugawiza baadhi ya video za mwendo wa polepole,nafasi haitoshi.</string>
+<string name="m_insufficient_space_all">Imeshindwa kugawiza video zote za mwendo wa polepole,nafasi haitoshi.</string>
+<string name="m_share_format_choose_title">"Gosa filadhu"</string>
+<string name="m_share_format_image">Fakkii</string>
+<string name="m_share_format_video">Viidiyoo</string>
+<string name="m_generating_tip">"Viidiyoo maddisiisaa jira…"</string>
+<string name="m_generate_video_fail">"Viidiyoo maddisiisuu hin dandeenye"</string>
+<string name="m_generating_gif_tip">"Gif maddisisa jira"</string>
+<string name="m_generate_gif_fail">"Gif maddisisu hin dandenye"</string>
+<string name="m_storage_not_enough">"Kuusaan bakka gahaa hin qabu."</string>
+<string name="m_saving_image">Fakkii gara  <xliff:g id="album_name">%1$s</xliff:g> tti kuusaa jira\u2026</string>
+<string name="m_drm_protected_warning1">"Qabiyyeen garagalcha dhorkamaa dha,"</string>
+<string name="m_drm_protected_warning2">"Bilbila irratti arguuf,"</string>
+<string name="m_wfd_protected_warning">"maaloo mul\'isa shiboo malee qunnamtti addaan kuti."</string>
+<string name="m_hdmi_protected_warning">"maaloo HDMI irraa qunnamtti adda kuti."</string>
+<string name="m_dc_open">Wal simasissu bani</string>
+<string name="m_dc_close">Wal simasissu cufii</string>
+<string name="m_please_wait">Maloo eggi</string>
+<string name="not_avaliable_high_speed_multi_share">Viidiyyo hirrun sochii saffisa harkiffata kana kessati hin argamu. Viidiyyon akka 1/4x tti hirrama.</string>
+<string name="not_avaliable_high_speed_single_share">Viidiyyo hirrun sochii saffisa harkiffata kana kessati hin argamu. Maloo viidiyyo akka saffisa kan birrati hirri.</string>
+</resources>

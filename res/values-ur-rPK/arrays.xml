@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="text_font">
+<item>ڈیفالٹ</item>
+<item>مونو</item>
+<item>بیحلیہ</item>
+<item>ساراف</item>
+</string-array>
+<string-array name="proxy_error">
+<item>ہوسٹ کا خانہ خالی نہيں ہوسکتا ہے</item>
+<item>پورٹ فیلڈ خالی نہیں ہوسکتا</item>
+<item>غلط ہوسٹ</item>
+<item>غلط پورٹ</item>
+</string-array>
+</resources>

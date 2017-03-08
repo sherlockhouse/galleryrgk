@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/photopage_bottom_controls"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:visibility="gone">
+    <!--gangyun tech add begin-->
+    <ImageButton
+        android:id="@+id/photopage_bottom_control_makeup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/navigation_bar_height"
+        android:background="@drawable/photopage_bottom_button_background"
+        android:paddingBottom="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_launcher_makeup"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/photopage_bottom_control_gybeauty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/photopage_bottom_button_background"
+        android:paddingBottom="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_launcher_gybeauty"
+        android:visibility="gone" />
+    <!--gangyun tech add end-->
+
+    <ImageButton
+        android:id="@+id/photopage_bottom_control_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/navigation_bar_height"
+        android:background="@drawable/photopage_bottom_button_background"
+        android:paddingBottom="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_menu_edit_holo_dark"
+        android:visibility="gone" />
+    <!-- added for image refocus. -->
+    <ImageButton
+        android:id="@+id/photopage_bottom_control_imageRefocus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@id/photopage_bottom_control_edit"
+        android:background="@drawable/photopage_bottom_button_background"
+        android:paddingBottom="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/m_refocus_imagerefocus"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/photopage_bottom_control_panorama"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/transparent_button_background"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_view_photosphere"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/photopage_bottom_control_tiny_planet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/photopage_bottom_button_background"
+        android:paddingBottom="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_menu_tiny_planet"
+        android:visibility="gone" />
+</RelativeLayout>

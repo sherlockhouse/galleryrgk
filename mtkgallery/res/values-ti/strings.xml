@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="m_share_format_choose_title">"ቅፃዕ ምምራፅ"</string>
+<string name="m_share_format_image">ምስሊ</string>
+<string name="m_share_format_video">ቪዲዩ</string>
+<string name="m_generating_tip">"ኣብ ከይዲ ምፅዓን ቪዲዮ..."</string>
+<string name="m_generate_video_fail">"ቪዲዮ ምስራሕ ኣይኸኣለን"</string>
+<string name="m_generating_gif_tip">"ጂኣይኤፍ ምፍልፋል..."</string>
+<string name="m_generate_gif_fail">"ጂኣይኤፍ ምፍልፋል ኣይከኣለን..."</string>
+<string name="m_share_limit">ልዕሊ 300 ፋይላት ምብፃሕ ኣይከኣልን፡፡</string>
+<string name="m_demo_off">መርኣያ ምጥፋእ</string>
+<string name="m_vertical_demo">ትኹል መርኣያ</string>
+<string name="m_horizontal_demo">ጋድም መርኣያ</string>
+<string name="m_storage_not_enough">"መኽዘን እኹል ቦታ የብሉን፡፡"</string>
+<string name="m_saving_image">ምስሊ ኣብ  <xliff:g id="album_name">%1$s</xliff:g> ምቕማጥ \u2026</string>
+<string name="m_drm_protected_warning1">"እዚ ተሕዝቶ ካብ ቕዳሕ-ዝትሓለወ እዩ፡፡"</string>
+<string name="m_drm_protected_warning2">"ኣብ ስልኪ ንምርኣይ፤"</string>
+<string name="m_wfd_protected_warning">"በይዝኦም ኣልቦ ሽቦ የላቕቑ፡፡"</string>
+<string name="m_hdmi_protected_warning">"ምስ ኤችዲኤምኣይ በይዝኦም ኣራክብ፡፡"</string>
+<string name="m_dc_open">ምዉዳድ በሪሁ</string>
+<string name="m_dc_close">ምዉዳድ ጠፊኡ</string>
+<string name="m_please_wait">በይዘኦም ይፀበዩ</string>
+<string name="m_insufficient_space_one">ንምክፋል ኣይኸኣለን፣እኹል ዘይኾነ ቦታ</string>
+<string name="m_insufficient_space_some">ዝተወሰነኑ ትሑት ምንቅስቃስ ቪዲዩታት ንምክፋል ኣይኸኣለን፣እኹል ዘይኾነ ክፍቲ ቦታ</string>
+<string name="m_insufficient_space_all">ኩሎም ትሑት ምንቅስቃስ ቪዲዩታት ንምክፋል ትሑት ምንቅስቃስ፣እኹል ዘይኾነ ክፍቲ ቦታ</string>
+<string name="not_avaliable_high_speed_multi_share">ንናይ ሕጂ ፍጥነት ምትሓት እንቅስቓሰ ቪድዮ ምክፋል የለን፡፡ ቪድዮ ከም 1/4x ክካፈል እዩ</string>
+<string name="not_avaliable_high_speed_single_share">ንናይ ሕጂ ፍጥነት ምትሓት እንቅስቓሰ ቪድዮ ምክፋል የለን፡፡በይዘኦም ከም ካሊእ ፍጥነት ቪድዮ የካፍሉ</string>
+</resources>
